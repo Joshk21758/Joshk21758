@@ -1,4 +1,4 @@
--  Joshua, Mwansa kunda @Joshk21758 here...
+-  Hello!! I'm Mwansa
 -  Currently based in Zambia.
 - Currently studying Software engineering.
 - How to reach me :
