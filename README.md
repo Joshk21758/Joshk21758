@@ -1,5 +1,5 @@
 - Hello!! I'm Josh... 👋🏾
-- Studying Software Engineering...
+- Currently studying Software Engineering.
 
            
 
