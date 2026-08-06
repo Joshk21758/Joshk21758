@@ -1,5 +1,6 @@
-- Hello!! I'm Josh... 👋🏾
-- Currently studying Software Engineering.
+- Hello!! I'm Mwansa
+- I'm Interested in Software Engineering
+- Reach out at mwansakunda530@gmail.com
 
            
 
