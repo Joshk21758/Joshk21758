@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact: You are who you think you are
+🌱 I’m currently learning<br>⚡ Fun fact: You are who you think you are
 
 
 ## 🌐 Socials:
