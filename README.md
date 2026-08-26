@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I’m currently learning<br>⚡ Fun fact: You are who you think you are
+# About Me:
+🌱 Software Engineering Student<br>⚡ Fun fact: You are who you think you are
 
 
 ## 🌐 Socials:
