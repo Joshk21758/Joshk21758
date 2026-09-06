@@ -1,5 +1,5 @@
 # About Me:
-🌱 Software Engineering Student<br>⚡ Fun fact: You are who you think you are
+ Software Engineering Student<br> Fun fact: You are who you think you are
 
 
 ## Socials:
