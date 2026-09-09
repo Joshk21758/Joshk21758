@@ -1,5 +1,5 @@
 # Hi, I'm Mwansa
- Software Engineering Student
+ Aspiring Software Engineer
 
 
 ## Socials:
