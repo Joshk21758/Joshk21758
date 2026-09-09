@@ -1,5 +1,5 @@
-# About Me:
- Software Engineering Student<br> Fun fact: Make the most out of your time!
+# Hi, I'm Mwansa
+ Software Engineering Student
 
 
 ## Socials:
