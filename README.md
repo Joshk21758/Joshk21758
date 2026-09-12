@@ -1,5 +1,5 @@
 # Hi, I'm Mwansa 👋
- Aspiring Software Engineer
+ Busy, but available.
 
 
 ## Socials:
